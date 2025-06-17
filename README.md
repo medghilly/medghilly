@@ -7,14 +7,14 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/yourprofile/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/mohamedghelli" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/Muhamed-Ghilly/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/medghilly" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
   <code><a href="https://twitter.com/yourprofile" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"> Twitter</a></code>
 </h5>
 
 <br>
 <p align="center">
-  Hi, I'm Mohamed GHELLI, Network Engineering Student & Aspiring Full Stack Developer from [Your Country]
+  Hi, I'm Mohamed GHELLI, Network Engineering Student & Aspiring Full Stack Developer from Mauritania
   <br>
   <br>
   🎓 I'm currently pursuing my Bachelor's degree in Network and Telecommunications (3rd year)
@@ -60,12 +60,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=mohamedghelli&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedghelli&theme=react&border=61dafb&hide_border=true" />
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=medghillyi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=medghilly&theme=react&border=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedghelli&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medghilly&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
 
