@@ -1,79 +1,82 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedghelli.mohamedghelli">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medghilly.medghilly">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Mohamed+GHELLI...;Network+Engineer+%26+Developer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Je+suis+Mohamed+GHILLY...;Étudiant+en+Réseaux+%26+Développeur&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/Muhamed-Ghilly/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/medghilly" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
-  <code><a href="https://twitter.com/yourprofile" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.linkedin.com/in/muhamed-ghilly/" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/medghilly" title="GitHub"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
+  <code><a href="https://twitter.com/MedGhilly" title="Twitter"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"> Twitter</a></code>
 </h5>
 
 <br>
 <p align="center">
-  Hi, I'm Mohamed GHELLI, Network Engineering Student & Aspiring Full Stack Developer from Mauritania
+  <strong>Étudiant en 3ème année Licence Réseaux et Télécommunications | Aspirant Développeur Full Stack</strong>
+  <br><br>
+  🎓 Étudiant à l'Université de Annaba, Algérie
   <br>
+  🌱 Passionné par les réseaux informatiques et le développement web
   <br>
-  🎓 I'm currently pursuing my Bachelor's degree in Network and Telecommunications (3rd year)
+  🔭 Objectif : Devenir ingénieur réseau et développeur full stack
   <br>
-  🌱 Passionate about networking technologies and full-stack development
+  💻 Compétences en cours d'acquisition : CCNA, MERN Stack
   <br>
-  🔭 Future Goals: Become a certified Network Engineer and Full Stack Developer
-  <br>
-  💻 Love working with networking equipment and writing clean code
-  <br>
-  📚 Currently learning: CCNA, Full Stack Development (MERN Stack)
-  <br>
-  💬 Ask me about networking, Linux, or web development
-  <br>
-  📫 How to reach me: <a href="mailto: your.email@example.com">your.email@example.com</a>
+  📫 Contact : <a href="mailto:medghilly2004@gmail.com">medghilly2004@gmail.com</a>
 </p>
 
 <hr>
 
-<h2 align="center">🔥 Technical Skills & Abilities 🔥</h2>
+<h2 align="center">🔥 Compétences Techniques 🔥</h2>
 <br>
 <p align="center">
-  <h3 align="center">Networking</h3>
+  <h3 align="center">Réseaux</h3>
   <p align="center">
-    <code><img title="Cisco" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg"></code>
-    <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"></code>
-    <code><img title="Wireshark" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wireshark.svg"></code>
+    <code><img title="Cisco" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg"></code>
+    <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+    <code><img title="Wireshark" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"></code>
   </p>
   
-  <h3 align="center">Development</h3>
+  <h3 align="center">Développement</h3>
   <p align="center">
-    <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"></code>
-    <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"></code>
-    <code><img title="React" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"></code>
-    <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"></code>
+    <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+    <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+    <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+    <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   </p>
 </p>
 
 <hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ Statistiques GitHub ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=medghillyi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=medghilly&theme=react&border=61dafb&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=medghilly&show_icons=true&theme=radical&locale=fr" />
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br>
   <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medghilly&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medghilly&layout=compact&theme=radical&locale=fr" />
   </div>
 </p>
 
 <hr>
 
-<h2 align="center">📜 Currently Studying For 📜</h2>
+<h2 align="center">📚 Actuellement en Apprentissage 📚</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-Exam-blue?logo=cisco" alt="CCNA">
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-green" alt="Full Stack">
-  <img src="https://img.shields.io/badge/Linux-Certification-yellow?logo=linux" alt="Linux">
+  <img src="https://img.shields.io/badge/CCNA-Formation-blue?logo=cisco" alt="CCNA">
+  <img src="https://img.shields.io/badge/Développement%20Full%20Stack-MERN-green" alt="MERN Stack">
+  <img src="https://img.shields.io/badge/Linux-Administration-yellow?logo=linux" alt="Linux">
+</p>
+
+<h2 align="center">📫 Comment me contacter 📫</h2>
+<p align="center">
+  <a href="mailto:medghilly2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/muhamed-ghilly/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
