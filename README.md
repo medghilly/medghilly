@@ -16,7 +16,7 @@
 <p align="center">
   <strong>Étudiant en 3ème année Licence Réseaux et Télécommunications | Aspirant Développeur Full Stack</strong>
   <br><br>
-  🎓 Étudiant à l'Université de Annaba, Algérie
+  🎓 Étudiant à l'ISCAE, MAURITANIA
   <br>
   🌱 Passionné par les réseaux informatiques et le développement web
   <br>
