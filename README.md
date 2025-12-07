@@ -1,82 +1,253 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medghilly.medghilly">
+<!DOCTYPE html>
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Mohamed GHILLY - Professional Portfolio</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "primary": "#3b82f6", // A slightly more modern blue
+              "background-light": "#f8f9fa",
+              "background-dark": "#0d1117",
+              "card-dark": "#161b22",
+              "border-dark": "#30363d",
+            },
+            fontFamily: {
+              "display": ["Inter", "sans-serif"]
+            },
+            borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-gray-700 dark:text-gray-300">
+<div class="relative flex min-h-screen w-full flex-col">
+<header class="sticky top-0 z-50 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-sm border-b border-gray-200 dark:border-border-dark">
+<div class="mx-auto flex max-w-6xl items-center justify-between whitespace-nowrap px-4 sm:px-6 lg:px-8 py-4">
+<div class="flex items-center gap-3">
+<div class="text-primary size-7">
+<svg fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<path d="M24 45.8096C19.6865 45.8096 15.4698 44.5305 11.8832 42.134C8.29667 39.7376 5.50128 36.3314 3.85056 32.3462C2.19985 28.361 1.76794 23.9758 2.60947 19.7452C3.451 15.5145 5.52816 11.6284 8.57829 8.5783C11.6284 5.52817 15.5145 3.45101 19.7452 2.60948C23.9758 1.76795 28.361 2.19986 32.3462 3.85057C36.3314 5.50129 39.7376 8.29668 42.134 11.8833C44.5305 15.4698 45.8096 19.6865 45.8096 24L24 24L24 45.8096Z" fill="currentColor"></path>
+</svg>
+</div>
+<h2 class="text-xl font-bold tracking-[-0.015em] text-gray-900 dark:text-white">Mohamed GHILLY</h2>
+</div>
+<nav class="hidden md:flex items-center gap-8">
+<a class="text-sm font-medium hover:text-primary dark:text-gray-300 dark:hover:text-primary transition-colors" href="#about">About</a>
+<a class="text-sm font-medium hover:text-primary dark:text-gray-300 dark:hover:text-primary transition-colors" href="#skills">Skills</a>
+<a class="text-sm font-medium hover:text-primary dark:text-gray-300 dark:hover:text-primary transition-colors" href="#projects">Projects</a>
+<a class="text-sm font-medium hover:text-primary dark:text-gray-300 dark:hover:text-primary transition-colors" href="#contact">Contact</a>
+</nav>
+<div class="flex items-center gap-3">
+<a aria-label="GitHub" class="flex h-9 w-9 items-center justify-center rounded-full text-gray-500 hover:bg-gray-200 hover:text-primary dark:text-gray-400 dark:hover:bg-card-dark dark:hover:text-primary transition-colors" href="#">
+<svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.165 6.839 9.49.5.092.682-.217.682-.482 0-.237-.009-.868-.014-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.031-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.378.203 2.398.1 2.65.64.7 1.03 1.595 1.03 2.688 0 3.848-2.338 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.001 10.001 0 0 0 22 12c0-5.523-4.477-10-10-10Z" fill-rule="evenodd"></path></svg>
+</a>
+<a aria-label="LinkedIn" class="flex h-9 w-9 items-center justify-center rounded-full text-gray-500 hover:bg-gray-200 hover:text-primary dark:text-gray-400 dark:hover:bg-card-dark dark:hover:text-primary transition-colors" href="#">
+<svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"></path></svg>
+</a>
+</div>
+</div>
+</header>
+<main class="flex-grow">
+<div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-16 sm:py-24">
+<div class="flex flex-col gap-20 sm:gap-28">
+<section id="hero">
+<div class="flex flex-col items-center gap-12 md:flex-row md:gap-16">
+<div class="flex flex-col gap-6 text-center md:text-left md:flex-1">
+<div class="flex flex-col gap-3">
+<h1 class="text-4xl font-black tracking-tighter text-gray-900 dark:text-white sm:text-6xl">Mohamed GHILLY</h1>
+<h2 class="text-lg font-medium text-primary sm:text-xl">Networks &amp; Full Stack Developer</h2>
+</div>
+<p class="text-base leading-relaxed text-gray-600 dark:text-gray-400 max-w-xl mx-auto md:mx-0">
+                                Passionate about building robust network infrastructures and creating dynamic web experiences. I merge networking principles with full stack development to build and deploy scalable, high-performance applications.
+                            </p>
+<div class="flex flex-wrap justify-center gap-4 md:justify-start">
+<a class="flex h-12 items-center justify-center gap-2.5 overflow-hidden rounded-lg bg-primary px-6 text-base font-bold text-white shadow-lg shadow-primary/20 transition-transform hover:scale-105" href="#contact">
+<span class="truncate">Contact Me</span>
+<span class="material-symbols-outlined">arrow_forward</span>
+</a>
+<a class="flex h-12 items-center justify-center gap-2.5 overflow-hidden rounded-lg bg-gray-200 px-6 text-base font-bold text-gray-800 transition-transform hover:scale-105 dark:bg-card-dark dark:text-white dark:border dark:border-border-dark" href="#">
+<span class="truncate">View Resume</span>
+<span class="material-symbols-outlined">description</span>
+</a>
+</div>
+</div>
+<div class="relative w-64 h-64 sm:w-80 sm:h-80 flex-shrink-0">
+<div class="absolute inset-0 rounded-full bg-primary/20 blur-2xl"></div>
+<div class="relative w-full h-full rounded-full bg-center bg-no-repeat bg-cover border-4 border-white dark:border-card-dark shadow-xl" data-alt="Professional headshot of Mohamed GHILLY" style='background-image:url("https://raw.githubusercontent.com/medghilly/readme/main/mghilly.jpg");'></div>
+</div>
+</div>
+</section>
+<section id="about">
+<div class="flex flex-col items-center gap-4 text-center">
+<h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">About Me</h2>
+<p class="max-w-3xl text-base leading-relaxed text-gray-600 dark:text-gray-400">
+                                I am a dedicated and ambitious student pursuing a degree in Network Engineering and Full Stack Development. My journey into technology was driven by a fascination with how data travels across the globe and a passion for creating seamless digital experiences. I thrive on solving complex problems, whether it's configuring a secure network or developing a feature-rich web application. My goal is to leverage my dual expertise to contribute to innovative projects that push the boundaries of technology.
+                            </p>
+</div>
+</section>
+<section id="skills">
+<div class="flex flex-col gap-8">
+<div class="text-center">
+<h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Technical Skills</h2>
+<p class="mt-2 text-base text-gray-600 dark:text-gray-400">My ever-growing toolkit for building digital solutions.</p>
+</div>
+<div class="grid grid-cols-1 gap-8 md:grid-cols-2">
+<div class="flex flex-col gap-6 rounded-xl border border-gray-200 dark:border-border-dark bg-white dark:bg-card-dark p-6 shadow-sm">
+<div class="flex items-center gap-4">
+<div class="grid h-12 w-12 shrink-0 place-items-center rounded-lg bg-primary/10 text-primary">
+<span class="material-symbols-outlined !text-2xl">router</span>
+</div>
+<h3 class="text-xl font-bold text-gray-900 dark:text-white">Networks &amp; Infrastructure</h3>
+</div>
+<div class="flex flex-wrap gap-2">
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">TCP/IP</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">Cisco iOS</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">DNS &amp; DHCP</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">Network Security</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">VPN</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">Linux</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">Bash Scripting</span>
+</div>
+</div>
+<div class="flex flex-col gap-6 rounded-xl border border-gray-200 dark:border-border-dark bg-white dark:bg-card-dark p-6 shadow-sm">
+<div class="flex items-center gap-4">
+<div class="grid h-12 w-12 shrink-0 place-items-center rounded-lg bg-primary/10 text-primary">
+<span class="material-symbols-outlined !text-2xl">code_blocks</span>
+</div>
+<h3 class="text-xl font-bold text-gray-900 dark:text-white">Development &amp; DevOps</h3>
+</div>
+<div class="flex flex-wrap gap-2">
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">JavaScript</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">React</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">Node.js</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">Python</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">Docker</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">SQL &amp; NoSQL</span>
+<span class="rounded-md bg-gray-100 dark:bg-gray-800 px-3 py-1 text-sm font-medium text-gray-700 dark:text-gray-300">CI/CD</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="projects">
+<div class="flex flex-col gap-8">
+<div class="text-center">
+<h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Featured Projects</h2>
+<p class="mt-2 text-base text-gray-600 dark:text-gray-400">A selection of projects that showcase my skills and passion.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+<div class="flex flex-col rounded-xl border border-gray-200 dark:border-border-dark bg-white dark:bg-card-dark overflow-hidden shadow-sm hover:shadow-lg transition-shadow duration-300">
+<img alt="Project 1 thumbnail" class="h-48 w-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkZFyc2BUVKbI_MHLB0r71De10Eatr2n1Am-e-pF4chhSbUe4fReIUg-qGTmNy3_H1djXruYlCfukT_3cTQPICbLKo-J-pzYBWa7CxJuJaasJ9ruEL7DxT20s45AQb263MzOHHc5Dr00x35RN6UrkVC9-5cynYRXnfYJjPHsesDgQO22s1ktNwPFiHLOXjQB5rcN7M9E1t82nTZ8dP1C9npSy6n3CSir408LR9V4MduoUl3lkx1iFuA2Zw-JKDIMwVCxPYzhifqVyO"/>
+<div class="p-6 flex flex-col flex-grow">
+<h3 class="text-lg font-bold text-gray-900 dark:text-white">Network Monitoring Dashboard</h3>
+<p class="mt-2 text-sm text-gray-600 dark:text-gray-400 flex-grow">A real-time network monitoring tool built with React and Node.js, visualizing traffic and device status.</p>
+<div class="mt-4 flex items-center justify-end gap-3">
+<a class="text-sm font-medium text-primary hover:underline" href="#">View Code</a>
+<a class="text-sm font-medium text-primary hover:underline" href="#">Live Demo</a>
+</div>
+</div>
+</div>
+<div class="flex flex-col rounded-xl border border-gray-200 dark:border-border-dark bg-white dark:bg-card-dark overflow-hidden shadow-sm hover:shadow-lg transition-shadow duration-300">
+<img alt="Project 2 thumbnail" class="h-48 w-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAya_cOufx5Z406CV-qU7NiJ_9G_K5SzWNjda7DgDvtuOaOwdgthmThm3YhviovJ8qutYbdI1C5TQcLJ2fg6f1l_yAqZkIoTNNOJjbeKU4ghrhtHYc2Jms8M6mf6lX0eb5u8lV2dxeooH1A8VxTxaIOzWrxJIhIwnw4vxpFUDD07AaGq7bA4bxVkyyR0LQCRKyQkk--Y4Y0e5DaXyYoHgok8a9OYN7ouiLY6xhcfUqi7e-FpyfcslF-2PX7CVo3mxcGIL83mmAOOscA"/>
+<div class="p-6 flex flex-col flex-grow">
+<h3 class="text-lg font-bold text-gray-900 dark:text-white">Automated Cloud Provisioning</h3>
+<p class="mt-2 text-sm text-gray-600 dark:text-gray-400 flex-grow">Python scripts using AWS SDK to automate the deployment of a secure and scalable web server infrastructure.</p>
+<div class="mt-4 flex items-center justify-end gap-3">
+<a class="text-sm font-medium text-primary hover:underline" href="#">View Code</a>
+</div>
+</div>
+</div>
+<div class="flex flex-col rounded-xl border border-gray-200 dark:border-border-dark bg-white dark:bg-card-dark overflow-hidden shadow-sm hover:shadow-lg transition-shadow duration-300">
+<img alt="Project 3 thumbnail" class="h-48 w-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLSCrOqoyE50_-mQ0VBL7CWgL9LrcQd1l6TBIW7yne4U95ppC0Pa41F4qDI2jJIOVdVlImRokHhOfzqirFmnAFKFDax9yWZU3HqE4H8lHWLDNcaKNfC1mhyFospKMtbEjgXfQabbspt_VhQ4OcVS7sQ5Qv-EnY4weQ3flIc-nUHQPcaA5PNkjqlrCwI_opQFdB2eSVnw0REVcv3813hE2PCQhIMsfKU3-6xauQwh-K8wgLf6MqQmxsr7r2jl842G7XO1rmswSMaEIl"/>
+<div class="p-6 flex flex-col flex-grow">
+<h3 class="text-lg font-bold text-gray-900 dark:text-white">Containerized To-Do App</h3>
+<p class="mt-2 text-sm text-gray-600 dark:text-gray-400 flex-grow">A full-stack to-do application packaged with Docker, featuring a Python backend and a JavaScript frontend.</p>
+<div class="mt-4 flex items-center justify-end gap-3">
+<a class="text-sm font-medium text-primary hover:underline" href="#">View Code</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="github-learning">
+<div class="grid grid-cols-1 md:grid-cols-5 gap-8">
+<div class="md:col-span-3 flex flex-col gap-6">
+<h2 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">My GitHub Activity</h2>
+<div class="grid grid-cols-1 gap-6">
+<img alt="GitHub Stats" class="w-full rounded-lg border border-gray-200 dark:border-border-dark" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDhBb8O17lsNheC7HZENh737rfpWor7TOAopG6WkjLBCIQIhWk9ynvG7baTjrJUShZlsOc8wpV9HBHMQlLkdwB_TGTvxZplsPmtU4rOFdtm0UiGSiDW88zCrA6yQ6s0YMAy71S7J8UfJNPnyNJLLeSCR6e4B4ZrQSJnpd7Nxj7j2RGc8QBN7J6ZFmlIV_8id5jiDC5-sXMPClpZYjP6Lv-76XschrC3mKDB40rnwK-EoYVlaxn2KNfLUsCndBmfoU0h5ZgyMFhC5fyr"/>
+<img alt="Top Languages" class="w-full rounded-lg border border-gray-200 dark:border-border-dark" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-w9RwdkH06vssm7s0qOP8CINiuQTLeHpZ4JDr7BaOLdxwvDJsp_QBDYXujbfG3ivC324rVl1GjEDN7b5rSf9RG9lOyv7dZ7UBu7T-2-9jiCCqn-CLhVjIX-5cEkLP3DEn8B2YW0XlGeTVakd6RPbtc_ZLyZAz5ZTjUk5iba7mC2FTmcVUOI8uEjBl1wf-hQYGB98sL7pTz-2wxN6KwsAph8mJuYfJ_kBoHqcmP9j827y8WTfGrf9aoyHnSJiKIFH-j-ZFHufGnipF"/>
+</div>
+</div>
+<div class="md:col-span-2 flex flex-col gap-6">
+<h2 class="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Currently Learning</h2>
+<div class="flex flex-col gap-4">
+<div class="flex items-center gap-3 rounded-lg border border-dashed border-gray-400 dark:border-gray-600 p-4 text-base font-medium text-gray-700 dark:text-gray-300">
+<span class="material-symbols-outlined !text-xl text-primary">rocket_launch</span>
+<span>Kubernetes Orchestration</span>
+</div>
+<div class="flex items-center gap-3 rounded-lg border border-dashed border-gray-400 dark:border-gray-600 p-4 text-base font-medium text-gray-700 dark:text-gray-300">
+<span class="material-symbols-outlined !text-xl text-primary">cloud</span>
+<span>AWS Solutions Architect Certification</span>
+</div>
+<div class="flex items-center gap-3 rounded-lg border border-dashed border-gray-400 dark:border-gray-600 p-4 text-base font-medium text-gray-700 dark:text-gray-300">
+<span class="material-symbols-outlined !text-xl text-primary">security</span>
+<span>Advanced Network Security</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="contact">
+<div class="rounded-xl border border-gray-200 dark:border-border-dark bg-white dark:bg-card-dark p-8 sm:p-12 text-center shadow-lg">
+<div class="flex flex-col items-center gap-4">
+<div class="grid h-16 w-16 place-items-center rounded-full bg-primary/10 text-primary">
+<span class="material-symbols-outlined !text-4xl">mail</span>
+</div>
+<h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-white">Get In Touch</h2>
+<p class="max-w-md text-base text-gray-600 dark:text-gray-400">I'm currently available for freelance work and open to discussing new projects. Let's build something great together!</p>
+<div class="mt-4 flex flex-wrap justify-center gap-4">
+<a class="flex h-12 items-center justify-center gap-2 overflow-hidden rounded-lg bg-primary px-6 text-base font-bold text-white shadow-lg shadow-primary/20 transition-transform hover:scale-105" href="mailto:example@email.com">
+<span class="truncate">mohamed.ghilly@email.com</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</main>
+<footer class="border-t border-gray-200 dark:border-border-dark">
+<div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-6">
+<div class="flex flex-col items-center justify-between gap-4 sm:flex-row">
+<p class="text-sm text-gray-500 dark:text-gray-400">© 2024 Mohamed GHILLY. All rights reserved.</p>
+<div class="flex gap-2">
+<a aria-label="GitHub" class="flex h-9 w-9 items-center justify-center rounded-full text-gray-500 hover:bg-gray-200 hover:text-primary dark:text-gray-400 dark:hover:bg-card-dark dark:hover:text-primary transition-colors" href="#">
+<svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.165 6.839 9.49.5.092.682-.217.682-.482 0-.237-.009-.868-.014-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.031-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.378.203 2.398.1 2.65.64.7 1.03 1.595 1.03 2.688 0 3.848-2.338 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.001 10.001 0 0 0 22 12c0-5.523-4.477-10-10-10Z" fill-rule="evenodd"></path></svg>
+</a>
+<a aria-label="LinkedIn" class="flex h-9 w-9 items-center justify-center rounded-full text-gray-500 hover:bg-gray-200 hover:text-primary dark:text-gray-400 dark:hover:bg-card-dark dark:hover:text-primary transition-colors" href="#">
+<svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Je+suis+Mohamed+GHILLY...;Étudiant+en+Réseaux+%26+Développeur&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/muhamed-ghilly/" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/medghilly" title="GitHub"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
-  <code><a href="https://twitter.com/MedGhilly" title="Twitter"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"> Twitter</a></code>
-</h5>
-
-<br>
-<p align="center">
-  <strong>Étudiant en 3ème année Licence Réseaux et Télécommunications | Aspirant Développeur Full Stack</strong>
-  <br><br>
-  🎓 Étudiant à l'ISCAE, MAURITANIA
-  <br>
-  🌱 Passionné par les réseaux informatiques et le développement web
-  <br>
-  🔭 Objectif : Devenir ingénieur réseau et développeur full stack
-  <br>
-  💻 Compétences en cours d'acquisition : CCNA, MERN Stack
-  <br>
-  📫 Contact : <a href="mailto:medghilly2004@gmail.com">medghilly2004@gmail.com</a>
-</p>
-
-<hr>
-
-<h2 align="center">🔥 Compétences Techniques 🔥</h2>
-<br>
-<p align="center">
-  <h3 align="center">Réseaux</h3>
-  <p align="center">
-    <code><img title="Cisco" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg"></code>
-    <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-    <code><img title="Wireshark" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"></code>
-  </p>
-  
-  <h3 align="center">Développement</h3>
-  <p align="center">
-    <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-    <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-    <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-    <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  </p>
-</p>
-
-<hr>
-
-<h2 align="center">⚡ Statistiques GitHub ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=medghilly&show_icons=true&theme=radical&locale=fr" />
-  </div>
-  <br>
-  <div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medghilly&layout=compact&theme=radical&locale=fr" />
-  </div>
-</p>
-
-<hr>
-
-<h2 align="center">📚 Actuellement en Apprentissage 📚</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/CCNA-Formation-blue?logo=cisco" alt="CCNA">
-  <img src="https://img.shields.io/badge/Développement%20Full%20Stack-MERN-green" alt="MERN Stack">
-  <img src="https://img.shields.io/badge/Linux-Administration-yellow?logo=linux" alt="Linux">
-</p>
-
-<h2 align="center">📫 Comment me contacter 📫</h2>
-<p align="center">
-  <a href="mailto:medghilly2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/muhamed-ghilly/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+</body></html>
