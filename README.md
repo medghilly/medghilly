@@ -1,125 +1,252 @@
 <div align="center">
 
-# 👨‍💻 Mohamed GHILLY
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" alt="header"/>
+</picture>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+# **Mohamed GHILLY**
 
 ### Networks & Full Stack Developer
 
-<img src="image/mghilly.jpg" alt="Mohamed GHILLY" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-medghilly-181717?style=for-the-badge&logo=github)](https://github.com/medghilly)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/medghilly)
-
-</div>
-
----
-
-## 🚀 About Me
-
 Passionate about building robust network infrastructures and creating dynamic web experiences. I merge networking principles with full stack development to build and deploy scalable, high-performance applications.
 
-I am a dedicated and ambitious student pursuing a degree in **Network Engineering** and **Full Stack Development**. My journey into technology was driven by a fascination with how data travels across the globe and a passion for creating seamless digital experiences.
+<br/>
 
-**🎯 Current Focus:** Developing my skills in cloud technologies, network security, and modern web frameworks.
+[![Contact Me](https://img.shields.io/badge/Contact_Me-3B82F6?style=for-the-badge&logoColor=white)](mailto:mohamed.ghilly@email.com)
+[![View Resume](https://img.shields.io/badge/View_Resume-242938?style=for-the-badge&logoColor=white)](#)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/-medghilly-181717?style=flat&logo=github&logoColor=white)](https://github.com/medghilly)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/medghilly)
+
+</td>
+<td width="40%" align="center">
+
+<img src="image/mghilly.jpg" width="240" height="240" style="border-radius: 50%; border: 4px solid #3B82F6;"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
+
+<br/>
+
+## 📖 About Me
+
+I am a dedicated and ambitious student pursuing a degree in **Network Engineering** and **Full Stack Development**. My journey into technology was driven by a fascination with how data travels across the globe and a passion for creating seamless digital experiences. I thrive on solving complex problems, whether it's configuring a secure network or developing a feature-rich web application. My goal is to leverage my dual expertise to contribute to innovative projects that push the boundaries of technology.
+
+<br/>
+
+---
+
+<br/>
 
 ## 🛠️ Technical Skills
 
+*My ever-growing toolkit for building digital solutions.*
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 **Networks & Infrastructure**
+
+<p>
+<img src="https://img.shields.io/badge/TCP/IP-0D1117?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco_iOS-0D1117?style=flat&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/DNS_&_DHCP-0D1117?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network_Security-0D1117?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPN-0D1117?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash_Scripting-0D1117?style=flat&logo=gnu-bash&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 **Development & DevOps**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## � Featured Projects
+
+*A selection of projects that showcase my skills and passion.*
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+<img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=400&h=240&fit=crop" width="100%" style="border-radius: 12px;"/>
+
+### **University Library Management System**
+
+A comprehensive PHP-based library management system for universities, featuring book administration, user management, borrowing operations, and educational document handling with MySQL database.
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white"/>
+</p>
+
+[![View Code](https://img.shields.io/badge/View_Code-3B82F6?style=flat&logo=github&logoColor=white)](https://github.com/medghilly/bibliotheque)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=240&fit=crop" width="100%" style="border-radius: 12px;"/>
+
+### **Cloud Infrastructure Project**
+
+Upcoming project focused on AWS cloud architecture and infrastructure design.
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+</p>
+
+[![Coming Soon](https://img.shields.io/badge/Coming_Soon-FFD700?style=flat&logoColor=white)](#)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=400&h=240&fit=crop" width="100%" style="border-radius: 12px;"/>
+
+### **Orchestration Tool App**
+
+Network monitoring and automation solution.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
+</p>
+
+[![Coming Soon](https://img.shields.io/badge/Coming_Soon-FFD700?style=flat&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 My GitHub Activity
+
 <div align="center">
 
-### 🌐 Networks & Infrastructure
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Expert-blue?style=flat-square)
-![Cisco iOS](https://img.shields.io/badge/Cisco_iOS-Proficient-1BA0D7?style=flat-square&logo=cisco)
-![DNS & DHCP](https://img.shields.io/badge/DNS_%26_DHCP-Advanced-green?style=flat-square)
-![Network Security](https://img.shields.io/badge/Network_Security-Intermediate-orange?style=flat-square)
-![VPN](https://img.shields.io/badge/VPN-Configured-red?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-Proficient-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### 💻 Development & DevOps
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat-square&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Configured-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=medghilly&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medghilly&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
----
-
-## 📂 Featured Projects
-
-### 📚 [University Library Management System](https://github.com/medghilly/bibliotheque)
-
-A comprehensive PHP-based library management system for universities, featuring:
-- 📖 **Book Administration** - Complete CRUD operations for books and authors
-- 👥 **User Management** - Authentication and account management
-- 🔄 **Borrowing Operations** - Track and manage book loans
-- 📄 **Document Handling** - Educational PDF document repository
-
-**Tech Stack:** `PHP` `MySQL` `HTML5` `CSS3` `XAMPP`
-
-```
-🔗 Repository: github.com/medghilly/bibliotheque
-```
+<br/>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medghilly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medghilly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medghilly&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E5E7EB)
-
-</div>
-
----
+<br/>
 
 ## 📚 Currently Learning
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 
-| Technology | Description | Status |
-|:----------:|:-----------:|:------:|
-| 🚀 **Kubernetes** | Container Orchestration | 🔄 In Progress |
-| ☁️ **AWS Solutions Architect** | Cloud Infrastructure | 📖 Learning |
-| 🔐 **Advanced Network Security** | Cybersecurity & Penetration Testing | 🎯 Planning |
+🚀 **Kubernetes Orchestration**
 
-</div>
+Container orchestration and deployment strategies
+
+</td>
+<td width="33%" align="center">
+
+☁️ **AWS Solutions Architect Certification**
+
+Cloud infrastructure and services mastery
+
+</td>
+<td width="33%" align="center">
+
+🔐 **Advanced Network Security**
+
+Cybersecurity and penetration testing techniques
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 📫 Get In Touch
+<br/>
+
+## � Get In Touch
 
 <div align="center">
 
 I'm currently available for freelance work and open to discussing new projects. Let's build something great together!
 
-[![Email](https://img.shields.io/badge/Email-mohamed.ghilly%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ghilly@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-medghilly-181717?style=for-the-badge&logo=github)](https://github.com/medghilly)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/medghilly)
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/mohamed.ghilly@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ghilly@email.com)
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 💡 "Building the future, one network packet and one line of code at a time"
+### 💡 *"Building the future, one network packet and one line of code at a time"*
 
----
+<br/>
 
 **© 2025 Mohamed GHILLY** • All rights reserved
 
-![Profile Views](https://komarev.com/ghpvc/?username=medghilly&color=3B82F6&style=flat-square&label=Profile+Views)
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" alt="footer"/>
+</picture>
 
 </div>
