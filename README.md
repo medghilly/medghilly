@@ -2,7 +2,7 @@
 
 <img src="./image/tech_banner.png" width="100%" alt="Tech Banner"/>
 
-👨‍🎓 Student in **Network Engineering and Telecommunications** (Morocco).  
+👨‍🎓 Student in **Network Engineering and Telecommunications** (ISCAE-Mauritania)  
 🌐 Passionate about **Web/Mobile development**, **systems programming**, and **network administration and supervision**.  
 🎯 Continuously learning **modern technologies**, **cybersecurity**, and **distributed systems**.
 </div>
