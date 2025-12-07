@@ -217,9 +217,12 @@ the boundaries of technology.
   
   <br/>
   
-  <a href="mailto:mohamed.ghilly@email.com">
-    <img src="https://img.shields.io/badge/📧_mohamed.ghilly@email.com-EA4335?style=for-the-badge&logoColor=white" height="40"/>
+  <a href="mailto:mohamed.ghelli.elbou@gmail.com">
+    <img src="https://img.shields.io/badge/📧_mohamed.ghelli.elbou@gmail.com-EA4335?style=for-the-badge&logoColor=white" height="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/muhamed-ghilly">
+  <img src="https://img.shields.io/badge/💼_Muhamed_GHILLY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
   
   <br/><br/>
 </div>
