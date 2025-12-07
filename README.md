@@ -1,33 +1,10 @@
-<div align="center">
+# Hello 👋 I'm Mohamed GHILLY
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=&fontSize=90" />
+![Tech Banner](./image/tech_banner.png)
 
-</div>
-
-<!-- Hero Section -->
-<div align="center">
-  <h1 style="margin-top: 20px; font-size: 48px;">Mohamed GHILLY</h1>
-  <h3 style="color: #3B82F6; font-weight: 600;">Networks & Full Stack Developer</h3>
-  
-  <p style="max-width: 600px; margin: 20px auto; line-height: 1.8; color: #8b949e;">
-    Passionate about building robust network infrastructures and creating dynamic web experiences. 
-    I merge networking principles with full stack development to build and deploy scalable, 
-    high-performance applications.
-  </p>
-  
-  <p>
-    <a href="mailto:mohamed.ghilly@email.com">
-      <img src="https://img.shields.io/badge/Contact_Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/View_Resume-1f2937?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-    </a>
-  </p>
-  
-  <p>
-    <a href="https://github.com/medghilly"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/medghilly"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  </p>
+👨‍🎓 Student in **Network Engineering and Telecommunications** (Morocco).  
+🌐 Passionate about **Web/Mobile development**, **systems programming**, and **network administration and supervision**.  
+🎯 Continuously learning **modern technologies**, **cybersecurity**, and **distributed systems**.
 </div>
 
 <br/><br/>
