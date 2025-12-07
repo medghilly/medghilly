@@ -6,8 +6,6 @@
 
 <!-- Hero Section -->
 <div align="center">
-  <img src="image/mghilly.jpg" width="200" height="200" style="border-radius: 50%; border: 5px solid #3B82F6; margin-top: -100px; box-shadow: 0 10px 40px rgba(59, 130, 246, 0.4);"/>
-  
   <h1 style="margin-top: 20px; font-size: 48px;">Mohamed GHILLY</h1>
   <h3 style="color: #3B82F6; font-weight: 600;">Networks & Full Stack Developer</h3>
   
