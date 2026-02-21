@@ -1,6 +1,6 @@
 # Hello 👋 I'm Mohamed GHILLY
 
-<img src="./image/tech_banner.png" width="100%" alt="Tech Banner"/>
+
 
 👨‍🎓 Student in **Network Engineering and Telecommunications** (ISCAE-Mauritania)  
 🌐 Passionate about **Web/Mobile development**, **systems programming**, and **network administration and supervision**.  
