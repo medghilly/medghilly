@@ -42,6 +42,8 @@ the boundaries of technology.
 
 [View my contributions](https://github.com/medghilly?tab=contributions)
 
+[![committers.top badge](https://user-badge.committers.top/mauritania/medghilly.svg)](https://user-badge.committers.top/mauritania/medghilly)
+
 **398 contributions** • **10 repositories** • **6 followers**
 
 Recent contributions to:
