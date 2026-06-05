@@ -40,9 +40,15 @@ the boundaries of technology.
 
 ## 📊 My GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medghilly&show_icons=true&theme=radical)
+[View my contributions](https://github.com/medghilly?tab=contributions)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medghilly&theme=radical)
+**398 contributions** • **10 repositories** • **6 followers**
+
+Recent contributions to:
+- oumarghadi/S-ticketing
+- medghilly/Myportfolio  
+- Hadrami41/app-technicien
+- and 14 others
 
 ---
 
